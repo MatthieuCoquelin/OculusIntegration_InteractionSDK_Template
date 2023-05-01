@@ -26,7 +26,7 @@ For both scenes it is possible
 
 - for hand only : pose detection 
 - for controller only : (locomotion with joystick)
-  - left controller : continius movement 
+  - left controller : continuous movement 
   - right controller : 
     - up / back  aim teleport and teleport on release with joystick orientation 
     - right / left : rotate 
