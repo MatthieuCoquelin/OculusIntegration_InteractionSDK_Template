@@ -25,8 +25,8 @@ For both scenes it is possible
   - Interact with canvas (curved or flat) with ray(pinch detection) or poke(touch canvas)
 
 - for hand only : pose detection 
-- for controller only : (locomotion)
+- for controller only : (locomotion with joystick)
   - left controller : continius movement 
   - right controller : 
-    - up / back aim teleport and teleport on release with joystick orientation 
+    - up / back  aim teleport and teleport on release with joystick orientation 
     - right / left : rotate 
