@@ -12,7 +12,7 @@ There is 2 scenes :
 - One with hand tracking and controller (the controller is the controller) : MainScene_HandControler 
 - The other hand tracking and controller (the controller is the hand) : MainScene_HandControlerAsHand
 
-If you want to create your own project you have to copy pastle the prefab (OculusInteractionSampleRigHandController or OculusInteractionSampleRigHandControllerAsHand dependiing on the scene) AND the gameObject Poses(the poses are created under this gameObject)(the Prefab will works without it but the will not have pose detection).
+If you want to create your own project you have to copy pastle the prefab (OculusInteractionSampleRigHandController or OculusInteractionSampleRigHandControllerAsHand dependiing on the scene) AND the gameObject Poses(the poses are created under this gameObject)(the Prefab will works without it but you will not have pose detection).
 
 # Functionalities
 For both scenes it is possible 
