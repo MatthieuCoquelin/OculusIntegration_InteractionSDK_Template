@@ -22,6 +22,7 @@ For both scenes it is possible
   - Grab with one hand with pose 
   - Rotate Grab with one hand without pose 
   - Grab with two hands without pose 
+  - Press Big button (buzzer one)
   - Interact with canvas (curved or flat) with ray(pinch detection) or poke(touch canvas)
 
 - for hand only : pose detection 
